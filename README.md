@@ -1,2 +1,6 @@
 # oreilly
-Source code for course modules &amp; Xcode projects for O'Reilly course: "Professional Mobile App Development Using iOS Frameworks"
+
+This repository is for customers that have purchased the O'Reilly Media course, "Professional Mobile App Development Using iOS Frameworks", via https://www.oreilly.com/. It contains source code for the course modules via "Module Source Code.zip". It also contains the final Xcode projects created during the course via "Xcode Projects.zip".
+
+The source code is under the MIT License, with the Commons Clause applied, which restricts the sale of the actual source code as-is by anyone other than O'Reilly (the source code may be used in commercial software appliucations per the limitations of the MIT License, which can be referenced here: https://opensource.org/license/mit, as well as via LICENSE.txt file located in thisa repository.
+
